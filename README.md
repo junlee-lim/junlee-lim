@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=junlee-lim&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/junlee-lim"
+  src="https://render.gitanimals.org/line/junlee-lim"
   width="800"
   height="300"
 />
