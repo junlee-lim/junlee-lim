@@ -6,7 +6,7 @@
   height="300"
 />
 </a>
-<div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=junlee-lim&show_icons=true&theme=default" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junlee-lim&layout=compact&theme=default" />
 </div>
