@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=junlee-lim&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/junlee-lim"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **junlee-lim/junlee-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
