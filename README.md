@@ -1,12 +1,13 @@
 ## Hi there 👋
 <div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=junlee-lim&utm_content=farm">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=junlee-lim&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/junlee-lim"
-  width="800"
+  width="600"
   height="300"
 />
-</a></div>
+</a>
+</div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=junlee-lim&show_icons=true&theme=default" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junlee-lim&layout=compact&theme=default" />
